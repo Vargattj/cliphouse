@@ -14,7 +14,7 @@ export default {
       <div class="wrapper"></div>
     </header>
 
-    <main><Clip/>></main>
+    <main><Clip /></main>
   </div>
 </template>
 
